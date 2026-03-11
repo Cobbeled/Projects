@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,7 +218,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8d6538c1e94ec0e2",
+  "active": "fa8a8d84cec1ce47",
   "lastOpenFiles": [
     "Willkommen.md",
     "Shot-Dispenser/Funktionen.md",
