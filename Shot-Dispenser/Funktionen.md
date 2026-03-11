@@ -5,9 +5,8 @@ Primär:
 Sekundär (Funktionen zum Ermöglichen von Primär):
 - Erkennung von Besetzten Plätzen + ob diese Voll/leer sind
 - Bewegung des Dispenser zu Erkannten Gläsern
-- Flüssigkeitspumpen für den Alkohol
+- Flüssigkeitspumpen für den Alkohol 
 Teritär (Funktionen zur Wartung/Instandhaltung)
 - Flüssigkeitsschutz für E komponenten
 - Einfache Zersetzung und zusammenfügung für reinigung
 - Pumpen Durchspühlungssystem
-- EA  hb
