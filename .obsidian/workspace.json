@@ -4,244 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0367dd9ed73e1d05",
+        "id": "23f8c42521380553",
         "type": "tabs",
         "children": [
           {
-            "id": "01867df7833ff3e4",
+            "id": "8d6538c1e94ec0e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/ÜA/ÜA Auffahrt.md",
+                "file": "Shot-Dispenser/Funktionen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ÜA Auffahrt"
-            }
-          },
-          {
-            "id": "f16d816de47fbf42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/ÜA/ÜA Eigen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ÜA Eigen"
-            }
-          },
-          {
-            "id": "c7cfbc8c8768638c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Ing-Technik/Elektro/E-Kabel auswählen.canvas",
-                "viewState": {
-                  "x": 18.400122070312662,
-                  "y": 619.9999999999998,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "E-Kabel auswählen"
-            }
-          },
-          {
-            "id": "1b86d4bed8afb9eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ing-Technik/Metall/KA Themen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KA Themen"
-            }
-          },
-          {
-            "id": "1a7d3b8daaf1948b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ing-Technik/Formeln Metall.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Formeln Metall"
-            }
-          },
-          {
-            "id": "7083fc03dd67fab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ing-Technik/Metall/24 Drehmoment und Seine Arbeiten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24 Drehmoment und Seine Arbeiten"
-            }
-          },
-          {
-            "id": "14baaa9df86dce79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ing-Technik/Bau/Dämmung/Schichttemperatur.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schichttemperatur"
-            }
-          },
-          {
-            "id": "bedf6a42a42624ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/ÜA/ÜA S275 Aufg. 2 a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ÜA S275 Aufg. 2 a"
-            }
-          },
-          {
-            "id": "7d35dbad3b64f4d9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Bilder/Baugruppen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Baugruppen"
-            }
-          },
-          {
-            "id": "579dc58e2dbf645f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Quadratische Funktion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quadratische Funktion"
-            }
-          },
-          {
-            "id": "14b4661bb7862f3b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Bilder/Integrale - Berechnung von Flächeninhalten.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Integrale - Berechnung von Flächeninhalten"
-            }
-          },
-          {
-            "id": "1d259636e5cf55e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Argumenttypen/Erfahrungsargument.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erfahrungsargument"
-            }
-          },
-          {
-            "id": "4633b2f0f84d1e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/ÜA/Das Geheimnis eines gelungenen Aufbaus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Das Geheimnis eines gelungenen Aufbaus"
-            }
-          },
-          {
-            "id": "3b749c3a03a7a324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Erörterung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erörterung"
-            }
-          },
-          {
-            "id": "ed520c514dbc66bb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Bilder/Baugruppen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Baugruppen"
-            }
-          },
-          {
-            "id": "04adf81bd2bd6c49",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Bilder/Baugruppen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Baugruppen"
-            }
-          },
-          {
-            "id": "7e116510b0bda6d6",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Shot-Dispenser/Funktionen.md",
-                "bFile": "Shot-Dispenser/Funktionen.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Funktionen  (Working Tree)"
+              "title": "Funktionen"
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -439,8 +219,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7e116510b0bda6d6",
+  "active": "8d6538c1e94ec0e2",
   "lastOpenFiles": [
+    "Willkommen.md",
     "Shot-Dispenser/Funktionen.md",
     "Bilder/Baugruppen.pdf",
     "Fügetechniken Stückliste.md",
@@ -476,7 +257,6 @@
     "Ing-Technik/Elektro/E-Kabel auswählen.canvas",
     "Mathe/ÜA/ÜA Auffahrt.md",
     "Mathe/ÜA/ÜA Eigen.md",
-    "Ing-Technik/Bau/Dämmung/Schichttemperaturen ÜA.md",
     "Ing-Technik/Bau/Dämmung",
     "Bilder",
     "Deutsch/Sprachliche Mittel/Untitled.canvas"
