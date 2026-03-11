@@ -10,4 +10,4 @@ Teritär (Funktionen zur Wartung/Instandhaltung)
 - Flüssigkeitsschutz für E komponenten
 - Einfache Zersetzung und zusammenfügung für reinigung
 - Pumpen Durchspühlungssystem
-testrk
+testrkllllll
