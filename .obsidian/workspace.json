@@ -230,10 +230,14 @@
             "id": "7e116510b0bda6d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Shot-Dispenser/Funktionen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Funktionen"
             }
           }
         ],
@@ -421,6 +425,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "excel:Create Excel File": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
