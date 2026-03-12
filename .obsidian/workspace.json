@@ -25,14 +25,12 @@
             "id": "236f0aa8ae5753e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Shot-Dispenser/Funktionen.md",
-                "mode": "source",
-                "source": false
+                "file": "Windmühle/Windmühlen Kopf.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Funktionen"
+              "icon": "lucide-file-text",
+              "title": "Windmühlen Kopf"
             }
           }
         ],
@@ -235,20 +233,20 @@
   },
   "active": "236f0aa8ae5753e7",
   "lastOpenFiles": [
+    "Shot-Dispenser/Basic Sketches/Turn Mechanism 1.png",
+    "Windmühle/Windmühlen Kopf.dwg",
+    "Windmühle/Windmühlen Kopf.pdf",
+    "Windmühle/Windmühlen Kopf.ipt",
+    "Windmühle",
     "Untitled.md",
     "Shot-Dispenser/Funktionen.md",
-    "Shot-Dispenser/Basic Sketches/Turn Mechanism 1.png",
+    "Willkommen.md",
     "Shot-Dispenser/Basic Sketches",
     "Shot-Dispenser/Data Sheets/GEARS.txt",
     "Shot-Dispenser/Data Sheets",
     "Shot-Dispenser/Old Vers/Test.stl",
     "Shot-Dispenser/Old Vers/Hook.stl",
     "Shot-Dispenser/Old Vers/Gear_test_3.stl",
-    "Shot-Dispenser/Old Vers/Gear_test_2.stl",
-    "Shot-Dispenser/Old Vers/Gear_step2.stl",
-    "Shot-Dispenser/Old Vers/Gear_step1.stl",
-    "Shot-Dispenser/Old Vers/Turret_Holder_2_test_pt2.ipt",
-    "Willkommen.md",
     "Fügetechniken Stückliste.md",
     "Stückliste.md",
     "Untitled.canvas",
@@ -273,7 +271,6 @@
     "Excel 2026-03-09 11.09.31.sheet.md",
     "Mathe/ÜA/ÜA S275 Aufg. 2 a.md",
     "Ing-Technik/Elektro/E-Kabel auswählen.canvas",
-    "Mathe/ÜA/ÜA Auffahrt.md",
     "Deutsch/Sprachliche Mittel/Untitled.canvas"
   ]
 }
