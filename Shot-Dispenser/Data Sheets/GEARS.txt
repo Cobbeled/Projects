@@ -1,0 +1,36 @@
+GEARS.
+If No Module [M]:
+	Start need: 
+		Pitch Circle [Dp] Self Decide (sd)
+		number of teeth [N] (sd)
+	do:
+		Dp / nN = M
+If need Dp:
+	M * n = Dp
+If need teeth:
+	Dp / M = n
+Addendum [Da] (Outer Ring)
+	Dp + 2M = Addendum Circle(Da)
+Dedendum (b)
+	b = 1.25M
+Root Circle (Dr)
+	Dp - 2b = Dr
+Clearance Circle (Dc)
+	Dp - 2M = Dc
+Base Circle (DB)
+	DB = cos(a) * Dp
+Preasure Angle (a)
+	just make it 20 degree goddamit
+Circular Pitch (p) :
+	p = M * Pi
+
+GEAR TEETH.
+Konvolution
+
+40mm = Dp
+20 = N
+2 = M
+44 = Da
+34 = Dc 
+35 = Dr
+6.283 = P

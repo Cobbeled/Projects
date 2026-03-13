@@ -7,7 +7,7 @@ Um die Anzahl an sich Bewegenden Komponenten zu Minimieren Soll Sich der Dispens
 Durch das Zylindrische Design Wird jede Seite vom Nutzen was Vorteilhaft ist bei Tischen wo an allen seiten Leute Sitzen/stehen.
 Zu beachten ist wo Die Schläuche Angeschlossen Werden Ohne im Weg zu sein.
 ##### Vorschläge:
-	Anschlüsse gehen haben eine Unterführung in der Grundplatte Welche Horizontal
+	Anschlüsse haben eine Unterführung in der Grundplatte Welche Horizontal
 	Die Schläuche Rausführen.
 #### Problem:
 Eine Flasche Hält nicht Ewig, und es Werden nicht immer die Selbe Anzahl an Getränken Angeschlossen. Würde Mann nur eine haben würden die Restlichen Drei Schläuche Nerven->
