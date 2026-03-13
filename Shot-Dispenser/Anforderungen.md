@@ -1,5 +1,5 @@
 Der Shot Dispenser Soll eine Zusammensetzung an Objekten sein die Dan Zusammen die Funktion haben:
-### Funktionen:
+## Funktionen:
 #### Primär:
 - Abstellplätze für die Shotgläser zu bieten
 - Automatische Befüllung von Leeren Shotgläsern
@@ -35,20 +35,22 @@ Der Shot Dispenser Soll eine Zusammensetzung an Objekten sein die Dan Zusammen d
 - Drehgestell
 - Drehturm + Dispenser
 
-Funktionen der Komponenten.
-Der Stepper Motor Wird Den Drehturm ansteuern und Somit den Dispenser zum Shotglas bewegen welches Befüllt werden Soll
-Der Schalter wird da sein Um die Spannungs zufuhr zu Schalten.
-Der Touch button wird benutzt um den Füll vorgang zu Starten.
-Der Knopf wird benötigt um den Stepper Zu Kalibrieren
-Der Arduino/esp wird Die Ganzen Komponenten Kalibrieren
-Die Powersupply wird den Arduino Spannung Liefern.
-Die Fluid pump wird den Alkohol von den Flaschen in die Gläser befördern.
+### Funktionen der Komponenten.
+- Der Stepper Motor Wird Den Drehturm ansteuern und Somit den Dispenser zum Shotglas bewegen welches Befüllt werden Soll
+- Der Schalter wird da sein Um die Spannungs zufuhr zu Schalten.
+- Der Touch button wird benutzt um den Füll vorgang zu Starten.
+- Der Knopf wird benötigt um den Stepper Zu Kalibrieren 
+- Der Arduino/esp wird Die Ganzen Komponenten Kalibrieren
+- Die Powersupply wird den Arduino Spannung Liefern.
+- Die Fluid pump wird den Alkohol von den Flaschen in die Gläser befördern.
 	Möglichkeit auf mehrere für das Mischen Verschiedener Getränke
-Schläuche die Die Flüssigkeit Transportieren
-Sensorik wird die Anwesenheit und Füllzustand der Gläser Kontrollieren
-Anschlüsse fürs  verbinden der Komponente mit den Kontroller
+- Schläuche die Die Flüssigkeit Transportieren
+- Sensorik wird die Anwesenheit und Füllzustand der Gläser Kontrollieren
+- Anschlüsse fürs  verbinden der Komponente mit den Kontroller
 
-Bodenplatte wo die Sensorik steckt und auch Abstellplatz für die Gläser dient.
-Das Gehäuse um die Elektronik zu Schützen vor zb Spritzwasser/Dreck/Gegenprall.
-Das Drehgestell Gibt die Drehbewegung an den Drehturm weiter und Fixiert diesen.
-Der Drehturm beinhält den Dispenser (Endziel der Schläuche) und Führt diesen zu der Gewünschten Position.
+- Bodenplatte wo die Sensorik steckt und auch Abstellplatz für die Gläser dient.
+- Das Gehäuse um die Elektronik zu Schützen vor zb Spritzwasser/Dreck/Gegenprall.
+- Das Drehgestell Gibt die Drehbewegung an den Drehturm weiter und Fixiert diesen.
+- Der Drehturm beinhält den Dispenser (Endziel der Schläuche) und Führt diesen zu der Gewünschten Position.
+
+
